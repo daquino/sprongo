@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import javax.sql.DataSource;
 
 @Configuration
-@EnableMongoRepositories("com.refactify.sprongotest.repository")
+@EnableMongoRepositories("${groupId}.${artifactId}.repository")
 public class DataConfig extends WebMvcConfigurerAdapter {
 
     @Bean public MongoDbFactory mongoDbFactory() throws Exception {

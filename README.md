@@ -30,7 +30,7 @@ mvn clean install
 
 Run the archetype:
 ==============================
-mvn archetype:generate -DarchetypeGroupId=com.refactify -DarchetypeArtifactId=sprongo -DarchetypeVersion=1.0 -DgroupId=your.package -DartifactId=yourappname
+mvn archetype:generate -DarchetypeGroupId=com.refactify -DarchetypeArtifactId=sprongo -DarchetypeVersion=1.0 -DgroupId=com.sample -DartifactId=sample
 
 Run the application:
 ==============================
