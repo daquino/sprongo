@@ -13,6 +13,7 @@ Current Application Stack
 - Jackson Core + Annotations 2.3.2
 - Jackson Databind 2.3.1
 - Bootstrap 3.1.1
+- JQuery 1.11.0
 
 Current Test Stack
 ================================
