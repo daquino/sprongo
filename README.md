@@ -12,6 +12,7 @@ Current Application Stack
 - Mongo Java Driver 2.10.1
 - Jackson Core + Annotations 2.3.2
 - Jackson Databind 2.3.1
+- Bootstrap 3.1.1
 
 Current Test Stack
 ================================
